@@ -1,0 +1,121 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    margin-left: 100px;
+    background-color: rgba(152, 167, 236, 0.753);
+
+}
+
+span{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 850;
+}
+
+a:hover{
+    text-decoration: none;
+    background-color: rgb(243, 232, 232);
+}
+
+a:link{
+    color: rgb(66, 240, 182);
+}
+
+a:visited{
+    color: red;
+}
+
+h1{
+    text-align: justify;
+    letter-spacing: break-word;
+    word-wrap: 0.05em;
+}
+
+
+.contain{
+    color: rgb(20, 22, 22);
+    background-image: url(ad.jpg);
+    background-repeat: no-repeat;
+    background-size: 800px 600px;
+    background-attachment: scroll;
+    max-width: 800px;
+    max-height: 600px;
+    min-width: 400px;
+    min-height: 300px;
+    
+}
+
+p{
+    text-align: justify;
+    letter-spacing: break-word;
+    word-wrap: 0.05em;
+}
+
+footer{
+    font-size: 14px;
+    color: grey;
+    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
+    
+}
+
+.center{
+    color: white;
+    background-image: url(ab.jpg);
+    background-repeat: no-repeat;
+    background-size: 800px 600px;
+    background-attachment: scroll;
+    max-width: 800px;
+    max-height: 600px;
+    min-width: 400px;
+    min-height: 300px;
+    
+}
+
+.coner{
+    color: white;
+    background-image: url(abc.jpg);
+    background-repeat: no-repeat;
+    background-size: 800px 650px;
+    background-attachment: scroll;
+    max-width: 800px;
+    max-height: 650px;
+    min-width: 400px;
+    min-height: 300px;
+    
+}
+
+.iner{
+    color:white;
+    background-image: url(aaa.jpg);
+    background-repeat: no-repeat;
+    background-size: 800px 650px;
+    background-attachment: scroll;
+    max-width: 800px;
+    max-height: 650px;
+    min-width: 400px;
+    min-height: 300px;
+}
+
+.ter{
+     /* color: white; 
+     background-image: url(ac.jpg);
+    background-repeat: no-repeat;
+    background-size: 800px 750px;
+    background-attachment: scroll; */
+     max-width: 800px;
+    max-height: 750px;
+    min-width: 400px;
+    min-height: 300px;
+     
+} 
+
+section{
+    max-width: 800px;
+    max-height: 750px;
+    min-width: 400px;
+    min-height: 300px;
+}
+
+
+
+
